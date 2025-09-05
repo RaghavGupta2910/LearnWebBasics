@@ -1,0 +1,37 @@
+div{
+    background-color: orange;
+    color: rgb(0, 0, 0);
+}
+
+p{
+    color:black;
+    font-size:12pt;
+}
+
+/* Universal selector */
+*{
+    font-style: italic;
+}
+
+/* Class selector */
+.big{
+    font-size: 17pt;
+}
+.bold{
+    color:rgb(113, 1, 1);
+    font-weight: bolder;
+}
+
+/* id selectors */
+#one{
+    font-style: normal;
+    color:rgb(255, 0, 93);
+    background-color: aliceblue;
+}
+
+/* attribute selector */
+input[type="text"]{
+    background-color: black;
+    color:aquamarine;
+    font-size: 14pt;
+}

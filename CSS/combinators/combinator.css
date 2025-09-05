@@ -1,0 +1,25 @@
+/* Adjacent Sibling Combinator */
+h1 + p{
+    color: rgb(14, 139, 181);
+    font-weight: bold;
+}
+
+/* General Sibling Combinator */
+h1 ~ p{
+    color:brown;
+    font-style: italic;
+    font-size: 15pts;
+}
+
+/* Child Combinator */
+section > p{
+    background-color: aquamarine;
+    font-style: oblique;
+    color: black;
+}
+
+/* Descendant Combinator */
+section p{
+    color: blueviolet;
+    font-family: monospace;
+}

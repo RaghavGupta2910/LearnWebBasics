@@ -1,0 +1,14 @@
+[
+    {
+        "image" :"https://m.media-amazon.com/images/I/818vo2TWp+L._SY522_.jpg",
+        "title" : "Too Good to Be True",
+        "author" : "Author: Prajakta Kohli",
+        "price" : 2
+    },
+    {
+        "image" :"https://m.media-amazon.com/images/I/81ngPRk2apL._SY522_.jpg",
+        "title" : "Norwegian Wood",
+        "author" : "Author: Haruki Murakami",
+        "price" : 1.3
+    }
+]
